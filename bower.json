@@ -1,0 +1,6 @@
+{
+  "name": "corley-mouse-presenter",
+  "dependencies": {
+    "jquery": "~2.1"
+  }
+}
