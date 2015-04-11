@@ -20,9 +20,8 @@ or append it in your dependencies
 
 ```
 
-Add the presenter plugin in your `index.html`, right before your `</body>` html
-tag
+Add the presenter plugin in your `index.html` as a Reveal plugin
 
 ```html
-<script src="bower_components/corley-mouse-presenter/presenter.js"></script>
+{ src: "bower_components/corley-mouse-presenter/presenter.js" }
 ```
